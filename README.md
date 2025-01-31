@@ -23,13 +23,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](/screencapture-localhost-5500-2025-01-31-14_45_58.png)
 ![](/Screenshot-2025-01-31-144534.png)
+![](/screencapture-localhost-5500-2025-01-31-14_45_58.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/bootstrap-flexbox-mobile-first-workflow-yax1vbLCar](https://www.frontendmentor.io/solutions/bootstrap-flexbox-mobile-first-workflow-yax1vbLCar)
+- Live Site URL: [https://fadymas.github.io/Blog-preview-card/](https://fadymas.github.io/Blog-preview-card/)
 
 ## My process
 
