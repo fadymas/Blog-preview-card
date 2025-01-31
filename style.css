@@ -67,7 +67,7 @@ div.maincard {
     width: 327px;
     height: 501px;
     background-color: var(--White);
-
+    border: 1px black solid;
     padding: 24px;
     border-radius: 20px;
 
